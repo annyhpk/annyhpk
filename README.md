@@ -2,6 +2,7 @@
 
 👋🏻 안녕하세요. **김찬호**입니다. 
 👨🏻‍💻 Front-end 개발자 입니다.
+이력서 : https://www.notion.so/chanto11/resume-3a6599a79d614b65b33c7fb5f1db15ac
 
 ## 💻Tech
 | 언어 | 기술 |
