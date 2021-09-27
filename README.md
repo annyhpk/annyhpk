@@ -9,7 +9,7 @@
 ## 💻Tech
 | 언어 | 기술 |
 | --- | --- |
-| JavaScript <br> TypeScript <br> Python3 <br> HTML / CSS | React <br> Redux <br> Express <br> Webpack |
+| JavaScript <br> TypeScript <br> Python <br> HTML / CSS | React <br> Redux <br> Express <br> Webpack |
 
 
 <!---
